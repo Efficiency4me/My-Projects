@@ -11,7 +11,7 @@ This project presents a detailed retail transaction analysis dashboard developed
 
 ## 📸 Dashboard Snapshot
 
-![Retail Dashboard](dashboard-overview 1.png) 
+![Retail Dashboard](dashboard-overview1.png) 
 
 
 
