@@ -9,7 +9,10 @@ This project presents a detailed retail transaction analysis dashboard developed
 3.  Detect patterns of fraudulent transactions.
 4.  Provide data-driven recommendations to optimize marketing, inventory, and revenue strategies.
 
-![Retail Dashboard](dashboard-overview 1.png)
+## 📸 Dashboard Snapshot
+
+![Retail Dashboard](dashboard-overview 1.png) 
+
 
 
 📊**Dashboard Overview**
