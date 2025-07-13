@@ -12,7 +12,7 @@ This project presents a detailed retail transaction analysis dashboard developed
 ![Retail Dashboard](dashboard-overview 1.png)
 
 
-📊** Dashboard Overview**
+📊**Dashboard Overview**
 The Power BI dashboard includes:
 .  Summary Cards: Total transactions, revenue, profit, quantity ordered, and percentage of revenue without fraud.
 .  Charts and Visuals:
@@ -24,7 +24,7 @@ The Power BI dashboard includes:
   6.  Top Customers Table by Order Value and Volume
 
 
-🧾** Dataset Schema**
+🧾**Dataset Schema**
 | Column Name       | Data Type   | Description                                                        |
 | ----------------- | ----------- | ------------------------------------------------------------------ |
 | OrderID           | Integer     | Unique identifier for each order                                   |
@@ -47,7 +47,7 @@ The Power BI dashboard includes:
 | Gender            | Categorical | Gender identity of the customer                                    |
 
 
-⚙️** Steps Taken to Build the Dashboard**
+⚙️**Steps Taken to Build the Dashboard**
 1.  Data Cleaning and Transformation (Power Query):
   .  Removed duplicates, handled null values.
   .  Standardized date and numeric formats.
@@ -75,7 +75,7 @@ The Power BI dashboard includes:
 6.  A few customers significantly impact revenue, suggesting high-LTV (lifetime value) users.
 
 
-📌** Recommendations**
+📌**Recommendations**
 1.  Product Strategy: Double down on Plants category through targeted promotions and bundled sales with low-performing categories like Pots.
 2.  Customer Retention: Launch loyalty programs or exclusive offers for high-value repeat customers.
 3.  Marketing Optimization: Allocate more budget to Google Ads, and investigate why Meta and YouTube campaigns underperform.
